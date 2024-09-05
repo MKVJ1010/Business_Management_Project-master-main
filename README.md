@@ -43,4 +43,4 @@ Ensure you have the following installed:
 - [Gowthamsidharth K](https://github.com/GowthamsidharthK)
 - [Manojkumar](https://github.com/MKVJ1010)
 - [Nithinraj](https://github.com/Nithinraj15)
-- [Pravinkumar S](https://github.com/Pravinjdjd)
+- [Tharunsuryan](https://github.com/Tharunsuryan)
